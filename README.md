@@ -1,6 +1,9 @@
 # E-commerce-website
-this repository is for my Cloud performance tuning project which is build by the help of react, nodejs,  google firebase and razor pay
+this repository is for my Online Shopping Website project which is build by the help of react, nodejs,  google firebase and razor pay
 
-Name: Priyanshu Tandon
-Sap id: 500091901
-Roll no.: R2142210606
+Developed a Frontend using React framework
+Utilized node.js for creating interactive a responsive interface for end users
+Utilized google firebase for the authentication of the user and successfully implemented razor pay for the online payments via UPI and other mediums
+Enhanced user experience by user friendly frontend for end users
+
+
