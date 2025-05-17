@@ -17,7 +17,7 @@ const Cart = () => {
     // const order = await createOrder(params);
 
     const options = {
-      key: "Null",
+      key: "rzp_test_vpShyAf7v0KB0k",
       amount: Math.ceil(totalPrice * 82.15 * 1.18 * 100),
       currency: "INR",
       name: "ShopMe",
